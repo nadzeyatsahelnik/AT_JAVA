@@ -6,6 +6,7 @@
        			<class name="com.epam.webdriver.tests.createShortcut_08" />
        			<class name="com.epam.webdriver.tests.changeShortcut_09" />
        			<class name="com.epam.webdriver.tests.deleteShortcut_10" />
+       			<class name="com.epam.webdriver.tests.attachFileBigger25mb_03" />
     		</classes>
 
 	</test>
